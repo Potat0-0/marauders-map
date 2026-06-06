@@ -27,8 +27,8 @@ interviews, with malicious code hidden in `tailwind.config.js`,
 Or use the full scanner:
 
 ```bash
-git clone https://github.com/[you]/void-dokkaebi-detector
-cd void-dokkaebi-detector
+git clone https://github.com/Potat0-0/marauders-map
+cd marauders-map
 chmod +x scripts/scan.sh
 ./scripts/scan.sh /path/to/your/project
 ```
